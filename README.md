@@ -5,13 +5,13 @@ Explorers: <br />
 
 
 
-Mining Pools:<br />
+Mining Pools:<br pool.magnatum.io />
 
 
 Tor Links:<br />
 Node: addnode=<br />
 
-Site: <br />
+Site: <br magnatum.io />
 Explorer: <br />
 
 Paper Wallet:<br />
